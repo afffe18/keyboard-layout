@@ -8,19 +8,24 @@ lowercase  &  AltGr (blue)
   <img src="./media/lowercase_layout.png"/>
 </div>
 
+<br/>
 
 uppercase  &  Shift+AltGr (blue)
 <div align="center">
   <img src="./media/uppercase_layout.png"/>
 </div>
 
+<br/><br/>
 
-I also took advantage of modifier keys like "^" or "´","`"`like you can see below. I know that some of them aren't needed but I decided to include them anyways. If you would need them, You have them
+I also took advantage of modifier keys like " ´ ", " ` " and " ^ " (picures below in that order). I know that some of them aren't needed but I decided to include them anyways.
 
+<div align="center" align="top">
+  <img src="./media/graph.png"/>
+  <img src="./media/degu.png"/>
+  <img src="./media/circonflex.png"/>
+</div>
 
-
-
-List of hopefully all currently added caracters in a kinda sorted way:
+### List of all currently added caracters:
 
 αβγδεζθφκλµηωπρστνξ ΦΩΣΠ
 
@@ -31,6 +36,9 @@ List of hopefully all currently added caracters in a kinda sorted way:
 ¹²³⁴⁵⁶⁷⁸⁹⁰₁₂₃₄₅₆₇₈₉ˣⁿ ⑴⑵⑶⑷⑸⑹⑺⑻⑼ ⓇⒸ™
 
 çÇ £¥
+
+
+<br/><br/>
 
 The Layout is created with [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 
